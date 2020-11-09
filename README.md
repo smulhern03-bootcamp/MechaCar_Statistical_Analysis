@@ -15,6 +15,7 @@ From our linear regression model, the r-squared value is 0.71, which means that 
 ## Summary Statistics on Suspension Coils
 
 The overall variance of the lots (Lot 1, 2, 3) does meet the less than 100 pounds per square inch specification.  The total variance is 62.29, so well below the specification.
+
 ![Total Summary Statistics](https://github.com/smulhern03-bootcamp/MechaCar_Statistical_Analysis/blob/main/Images/total_summary.PNG)
 
 Additionally, Lots 1 and 2 as seperate lots, also pass the requirement with variances of .98 and 7.47, respectively.  Lot 3, however, does not meet the requirement.  Lot 3's variance exceeded the 100 pounds per square inch limit with a variance of 170.282.
