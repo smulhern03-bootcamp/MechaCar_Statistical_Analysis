@@ -23,12 +23,15 @@ Additionally, Lots 1 and 2 as seperate lots, also pass the requirement with vari
 
 ## T-Tests on Suspension Coils
 ![Lot 1 T-Test](https://github.com/smulhern03-bootcamp/MechaCar_Statistical_Analysis/blob/main/Images/Lot%201%20T-Test.PNG)
+
 Based upon T-Tests of Lot 1, our P-value is smaller than .05 so we can safely reject the null hypothesis and the means are not statisically similar.
 
 ![Lot 2 T-Test](https://github.com/smulhern03-bootcamp/MechaCar_Statistical_Analysis/blob/main/Images/Lot%202%20T-Test.PNG)
+
 Based upon T-Tests of Lot 2, our P-value is smaller than .05 so we can safely reject the null hypothesis and the means are not statisically similar.
 
 ![Lot 3 T-Test](https://github.com/smulhern03-bootcamp/MechaCar_Statistical_Analysis/blob/main/Images/Lot%203%20T-Test.PNG)
+
 Based upon T-Tests of Lot 3, our P-value is greater than .05 so we cannot reject the null hypothesis and the means are statisically similar.
 
 ## Study Design: MechaCar vs Competition
